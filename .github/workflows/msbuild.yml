@@ -36,7 +36,7 @@ jobs:
       
     - name: Deploy Artifact
       uses: actions/upload-artifact@v2
-        with:
+      with:
           name: nvmetool
           path: D:\a\nvmetool-win\nvmetool-win\x64\Release\NVMeTool.exe
       
