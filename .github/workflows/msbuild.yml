@@ -34,7 +34,7 @@ jobs:
       # See https://docs.microsoft.com/visualstudio/msbuild/msbuild-command-line-reference
       run: msbuild /m ${{env.SOLUTION_FILE_PATH}} /property:Configuration=Release /property:Platform=x64
       
-    - name: Archive code coverage results
+    - name: Deploy Artifact
       uses: actions/upload-artifact@v2
         with:
           name: nvmetool
