@@ -158,7 +158,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\nvme.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\10\Include\10.0.19041.685\shared\nvme.h" />
     <ClInclude Include="NVMeCommandSupportedAndEffects.h" />
     <ClInclude Include="NVMeDeallocate.h" />
     <ClInclude Include="NVMeDeviceSelftest.h" />
