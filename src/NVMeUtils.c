@@ -4,6 +4,7 @@
 
 #include "WinFunc.h"
 #include "NVMeUtils.h"
+#include "pch.h"
 
 void PrintDataBuffer(PUCHAR DataBuffer, ULONG BufferLength)
 {
