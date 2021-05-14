@@ -187,6 +187,7 @@
     <ClInclude Include="NVMeSMART.h" />
     <ClInclude Include="NVMeUtils.h" />
     <ClInclude Include="WinFunc.h" />
+    <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NVMeCommandSupportedAndEffects.c" />
